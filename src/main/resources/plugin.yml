@@ -1,0 +1,7 @@
+name: Sync
+version: '${project.version}'
+main: me.spoony.sync.Sync
+api-version: 1.16
+authors: [ Spoony ]
+description: Custom Core by Spoony
+website: https://spoony.me
